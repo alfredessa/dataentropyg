@@ -8,5 +8,5 @@ weight: 50
 
 I am Alfred Essa. 
 
-I write mostly about data science, machine learning, learning analytics, inequity, books and libraries, running (or not), and chess.
+This is my blog, mostly on technical topics.
 
